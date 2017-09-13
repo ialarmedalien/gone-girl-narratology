@@ -4,9 +4,14 @@ Analysis of narratological aspects of *Gone Girl* by Gillian Flynn for [European
 
 Poster content by KR Ireland, design by @ialarmedalien (A Ireland).
 
-![Image of poster](gone-girl-poster-low-res.jpg)
-
 ## Downloads
 
-* [Poster with low res images](Gone%20Girl%20Poster-low.pdf) - for viewing on a computer or handheld device
-* [Poster with high res images](Gone%20Girl%20Poster.pdf) - suitable for printing at A0 size
+Click on the link and then choose the 'Download' button at the top of the page to get the file. Fonts don't render correctly in the github PDF viewer.
+
+* [Poster with low res images](gone-girl-poster-low-res.pdf) - for viewing on a computer or handheld device
+* [Poster with high res images](gone-girl-poster.pdf) - suitable for printing at A0 size
+
+
+![Image of poster](gone-girl-poster-low-res.jpg)
+
+(Image can be clicked to view a larger version)
